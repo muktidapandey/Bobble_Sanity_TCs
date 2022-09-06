@@ -40,6 +40,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>adeb66f1-9fa3-4303-9700-4655873428b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/KB_settings_1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>cd004776-b165-4d43-8d24-ae9ebe51b797</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
