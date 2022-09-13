@@ -91,7 +91,5 @@ Mobile.scrollToText('Version')
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/android.view.ViewGroup (3)'), 0)
 
-Mobile.tap(findTestObject(''), 0)
-
 Mobile.closeApplication()
 
